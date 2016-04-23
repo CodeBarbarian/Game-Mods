@@ -1,7 +1,7 @@
 data:extend({
   {
     type = "item",
-    name = "fast-inserter",
+    name = "express-inserter",
     icon = "__ProjectX__/graphics/icons/express-inserter.png",
     flags = {"goes-to-quickbar"},
     subgroup = "inserter",
