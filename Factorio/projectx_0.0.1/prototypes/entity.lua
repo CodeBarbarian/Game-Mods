@@ -5,7 +5,7 @@ data:extend ({
  {
     type = "inserter",
     name = "express-inserter",
-    icon = "__base__/graphics/icons/express-inserter.png",
+    icon = "__projectx__/graphics/icons/express-inserter.png",
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
     minable =
     {
@@ -67,21 +67,21 @@ data:extend ({
     },
     hand_base_picture =
     {
-      filename = "__base__/graphics/entity/fast-inserter/fast-inserter-hand-base.png",
+      filename = "__projectx__/graphics/entity/express-inserter-hand-base.png",
       priority = "extra-high",
       width = 8,
       height = 34
     },
     hand_closed_picture =
     {
-      filename = "__base__/graphics/entity/fast-inserter/fast-inserter-hand-closed.png",
+      filename = "__projectx__/graphics/entity/express-inserter-hand-closed.png",
       priority = "extra-high",
       width = 18,
       height = 41
     },
     hand_open_picture =
     {
-      filename = "__base__/graphics/entity/fast-inserter/fast-inserter-hand-open.png",
+      filename = "__projectx__/graphics/entity/express-inserter-hand-open.png",
       priority = "extra-high",
       width = 18,
       height = 41
@@ -111,7 +111,7 @@ data:extend ({
     {
       sheet =
       {
-        filename = "__base__/graphics/entity/fast-inserter/express-inserter-platform.png",
+        filename = "__projectx__/graphics/entity/express-inserter-platform.png",
         priority = "extra-high",
         width = 46,
         height = 46
