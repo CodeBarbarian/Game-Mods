@@ -9,7 +9,7 @@ Notice
 --
 This project has no name yet, therefore "Project X"
 
-Content
+Content (TODO)
 --
 
 Logistics
@@ -28,5 +28,4 @@ Combat
 	
 
 	
-Developed by CodeBarbarian, and Kstrider
-Because we needed that little thing to go faster.
+Developed by CodeBarbarian, and Kstrider because we needed that little thing to go faster.
