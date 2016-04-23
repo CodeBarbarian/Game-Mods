@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "recipe",
     name = "express-inserter",
@@ -8,9 +7,8 @@ data:extend(
     {
       {"fast-inserter", 1},
       {"advanced-circuit", 2},
-	  {"iron-gear-wheel", 5},
+  	  {"iron-gear-wheel", 5}
     },
     result = "express-inserter"
   }
-}
-)
+})

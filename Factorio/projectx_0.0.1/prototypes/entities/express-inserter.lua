@@ -37,4 +37,4 @@ entity.hand_closed_picture.filename = "__projectx__/graphics/entities/express-in
 entity.hand_open_picture.filename = "__projectx__/graphics/entities/express-inserter/express-inserter-hand-open.png"
 entity.platform_picture.sheet.filename = "__projectx__/graphics/entities/express-inserter/express-inserter-platform.png"
 
-data:extend(entity)
+data:extend({entity})
