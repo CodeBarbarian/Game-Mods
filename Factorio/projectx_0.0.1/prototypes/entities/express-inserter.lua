@@ -2,7 +2,7 @@ require("util")
 
 local entity = util.table.deepcopy(data.raw["inserter"]["fast-inserter"])
 
-entity.name                = "fast-inserter"
+entity.name                = "express-inserter"
 entity.icon                = "__projectx__/graphics/icons/express-inserter.png"
 entity.minable.result      = "express-inserter"
 entity.energy_source.drain = "0.8kW"
