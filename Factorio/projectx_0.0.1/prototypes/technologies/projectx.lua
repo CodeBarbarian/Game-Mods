@@ -3,6 +3,7 @@ data:extend ({
     type = "technology",
     name = "projectx",
     icon = "__projectx__/graphics/technologies/projectx.png",
+	icon_size = 128,
     effects =
     {
       {
