@@ -1,22 +1,10 @@
 data:extend ({
   {
     type = "technology",
-    name = "logistics-3",
+    name = "projectx",
     icon = "__base__/graphics/technology/logistics.png",
     effects =
     {
-      {
-        type = "unlock-recipe",
-        recipe = "express-transport-belt"
-      },
-      {
-        type = "unlock-recipe",
-        recipe = "express-transport-belt-to-ground"
-      },
-      {
-        type = "unlock-recipe",
-        recipe = "express-splitter"
-      },
 	  {
 		type = "unlock-recipe",
 		recipe = "express-inserter"
@@ -25,7 +13,7 @@ data:extend ({
     prerequisites = {"logistics-2", "automation-3"},
     unit =
     {
-      count = 100,
+      count = 1,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -34,6 +22,5 @@ data:extend ({
       },
       time = 15
     },
-    order = "a-f-c",
   }
 })
