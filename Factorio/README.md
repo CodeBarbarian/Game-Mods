@@ -13,7 +13,7 @@ Content
 --
 
 Logistics
-	* Express Inserter (100% faster then Fast-Inserter)
+* Express Inserter (100% faster then Fast-Inserter)
 
 Production
 
