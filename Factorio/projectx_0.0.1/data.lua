@@ -1,4 +1,4 @@
-require("prototypes.item")
-require("prototypes.entity")
-require("prototypes.recipe")
-require("prototypes.technology")
+require("prototypes.entities.express-inserter")
+require("prototypes.items")
+require("prototypes.recipes")
+require("prototypes.technologies.projectx")

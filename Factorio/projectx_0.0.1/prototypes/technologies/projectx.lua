@@ -2,15 +2,15 @@ data:extend ({
   {
     type = "technology",
     name = "projectx",
-    icon = "__base__/graphics/technology/logistics.png",
+    icon = "__projectx__/graphics/technologies/projectx.png",
     effects =
     {
-	  {
-		type = "unlock-recipe",
-		recipe = "express-inserter"
-	  }
+      {
+        type = "unlock-recipe",
+        recipe = "express-inserter"
+      }
     },
-    prerequisites = {"logistics-2", "automation-3"},
+    prerequisites = {"logistics-3", "automation-3"},
     unit =
     {
       count = 1,
