@@ -16,11 +16,14 @@ Logistics
 	* Express Inserter (100% faster then Fast-Inserter)
 
 Production
+
 Intermediate Products
+
 Combat
-	* Vehicle mounted rocket launcher
-	* Vehicle mounted flamethrower
-	* Suicide Vest (Sometimes you just want to run into a nest and go BOOOOOM)
+
+* Vehicle mounted rocket launcher
+* Vehicle mounted flamethrower
+* Suicide Vest (Sometimes you just want to run into a nest and go BOOOOOM)
 
 	
 
