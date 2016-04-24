@@ -42,4 +42,4 @@ item.ammo_type =
 	}
 }
 
-data:extend({ammo})
+data:extend({item})
