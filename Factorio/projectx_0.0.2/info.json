@@ -1,9 +1,10 @@
 {
-  "name": "projectx",
-  "version": "0.0.2",
-  "title": "projectx",
-  "author": "CodeBarbarian & KStrider",
-  "contact": "none",
-  "homepage": "https://github.com/CodeBarbarian/Game-Mods/tree/master/Factorio",
-  "description": "Mod that adds a couple of enhancements"
+	"name": "projectx",
+	"version": "0.0.2",
+	"title": "projectx",
+	"author": "CodeBarbarian & KStrider",
+	"contact": "none",
+	"homepage": "https://github.com/CodeBarbarian/Game-Mods/tree/master/Factorio",
+	"description": "Mod that adds a couple of enhancements",
+	"dependencies": ["base >= 0.12.29"]
 }
